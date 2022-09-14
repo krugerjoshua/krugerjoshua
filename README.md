@@ -9,13 +9,13 @@
 ---
 
 ### :woman_technologist: About Me :
-
+I recently started with a part-time software engineer course which I am currently busy with and completed a small bootcamp. Both is at HyperionDev. I'm currently busy with Python and after that I'll start with Java. I'm eager to learn more of the industry and to start working with other people in the same field as me.
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-
+<img src="https://www.clipartmax.com/png/middle/279-2791029_python-icon-python-logo.png"/>
 </div>
 
 ---
