@@ -15,7 +15,7 @@ I recently started with a part-time software engineer course which I am currentl
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-<img src="https://www.clipartmax.com/png/middle/279-2791029_python-icon-python-logo.png" width="30px"/>
+<img src="https://www.clipartmax.com/png/middle/279-2791029_python-icon-python-logo.png" width="40px"/>
 </div>
 
 ---
