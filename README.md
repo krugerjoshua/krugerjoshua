@@ -23,4 +23,4 @@ I recently started with a part-time software engineer course which I am currentl
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krugerjoshua&theme=cobalt&show_icons=true)
+![krugerjoshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=krugerjoshua&theme=cobalt&show_icons=true)
