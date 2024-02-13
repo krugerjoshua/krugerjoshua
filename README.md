@@ -18,6 +18,9 @@ I recently started with a part-time software engineer course which I am currentl
 <div>
   <h3>&#x2022; Python (Intermediate)</h3>
   <h3>&#x2022; Java (Beginner)</h3>
+  <h3>&#x2022; JavaScript (Beginner)</h3>
+  <h3>&#x2022; HTML (Beginner)</h3>
+  <h3>&#x2022; CSS (Beginner)</h3>
 </div>
 
 ---
