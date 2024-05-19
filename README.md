@@ -10,7 +10,7 @@
 
 ### :woman_technologist: About Me :
 Good day fellow Software Developers!
-I recently started with a part-time software engineer course which I am currently busy with and completed a small bootcamp. I'm currently busy with Python and after that I'll start with Java. I'm eager to learn more of the industry and to start working with other people in the same field as me.
+Good day fellow Software Developers! I recently started with a part-time software developer course which I am currently busy with. I'm currently busy with HTML, CSS and JavaScript. I've done a few projects so far that is showcased below, that will take you to my Github repo. I'm eager to learn more of the industry and to start working with other people in the same field as me.
 
 ---
 
