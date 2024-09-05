@@ -16,11 +16,11 @@ Good day fellow Software Developers! I recently started with a part-time softwar
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <h3>&#x2022; Python (Intermediate)</h3>
-  <h3>&#x2022; Java (Beginner)</h3>
-  <h3>&#x2022; JavaScript (Beginner)</h3>
-  <h3>&#x2022; HTML (Beginner)</h3>
-  <h3>&#x2022; CSS (Beginner)</h3>
+  <h3>&#x2022; Python</h3>
+  <h3>&#x2022; Java</h3>
+  <h3>&#x2022; JavaScript</h3>
+  <h3>&#x2022; HTML</h3>
+  <h3>&#x2022; CSS</h3>
 </div>
 
 ---
