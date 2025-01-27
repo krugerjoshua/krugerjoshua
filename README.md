@@ -20,6 +20,7 @@ Good day fellow Software Developers! I recently started with a part-time softwar
   <h3>&#x2022; JavaScript</h3>
   <h3>&#x2022; HTML</h3>
   <h3>&#x2022; CSS</h3>
+  <h3>&#x2022; React</h3>
 </div>
 
 ---
