@@ -12,9 +12,11 @@
 Good day fellow Software Developers!
 Good day fellow Software Developers! I recently started with a part-time software developer course which I am currently busy with. I'm currently busy with HTML, CSS and JavaScript. I've done a few projects so far that is showcased below, that will take you to my Github repo. I'm eager to learn more of the industry and to start working with other people in the same field as me.
 
-[LinkedIn:](https://www.linkedin.com/in/joshua-kruger-0990a9244/)
+Click below for more!
 
-[Portfolio Site:](https://timely-kataifi-9af9c7.netlify.app/)
+[LinkedIn](https://www.linkedin.com/in/joshua-kruger-0990a9244/)
+
+[Portfolio Site](https://timely-kataifi-9af9c7.netlify.app/)
 
 ---
 
